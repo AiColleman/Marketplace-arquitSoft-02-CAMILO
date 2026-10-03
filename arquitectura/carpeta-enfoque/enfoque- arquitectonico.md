@@ -10,4 +10,4 @@ Las dependencias internas mediante Clean Architecture.
 | Beneficios | • Facilita el mantenimiento y las pruebas unitarias.<br>• Permite cambiar implementaciones técnicas sin modificar innecesariamente las reglas del negocio.<br>• Mejora la organización y separación de responsabilidades del código. |
 
 (imagen del diagrama)
-![Patron arquitectonico](imagenes/patron-arquitectonico.png)
+![Clean Architecture del Marketplace](imagenes/patron-arquitectonico.png)
